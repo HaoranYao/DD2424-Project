@@ -10,7 +10,9 @@ Here is the final [report](https://github.com/HaoranYao/DD2424-Project/tree/mast
 
 **Other Related Reference**
 
-- the [utils](https://github.com/HaoranYao/DD2424-Project/tree/master/utils) are from existing open source python files [utils](https://github.com/jfzhang95/pytorch-deeplab-xception/tree/master/utils)
+- the [utils](https://github.com/HaoranYao/DD2424-Project/tree/master/utils) are from existing open source python files [utils](https://github.com/jfzhang95/pytorch-deeplab-xception/tree/master/utils).
+
+- then [main.py](https://github.com/HaoranYao/DD2424-Project/blob/master/main.py) is modified from [train.py] (https://github.com/jfzhang95/pytorch-deeplab-xception/blob/master/train.py).
 
 
 ## Changes from previous work
