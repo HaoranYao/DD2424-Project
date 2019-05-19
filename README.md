@@ -44,7 +44,7 @@ Here is the final [report](https://github.com/HaoranYao/DD2424-Project/tree/mast
     ```Shell
     tensorboard --logdir log/deeplab-resnet/ &
     ```
-2. Then use your browser to visit '''localhost:6006''', you will find the curves for training loss, validation loss etc.
+2. Then use your browser to visit ```localhost:6006```, you will find the curves for training loss, validation loss etc.
 
 
 
