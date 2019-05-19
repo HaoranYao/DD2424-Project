@@ -3,7 +3,7 @@ This is a repo for course project of [DD2424 Deep Learning in Data Science](http
 
 This project is an Implementation of [Deeplabv3+](https://arxiv.org/abs/1802.02611) based on Pytorch. Another implementation with tensorflow:[tensorflow-deeplab-v3-plus](https://github.com/rishizek/tensorflow-deeplab-v3-plus). 
 
-In this project we build our network based on this paper and other implementation using Pytorch. Specifically, the [modeing](https://github.com/HaoranYao/DD2424-Project/tree/master/modeling) part is based on [jfzhang95's work](https://github.com/jfzhang95/pytorch-deeplab-xception/tree/master/modeling) and we made some modifications om them.
+In this project we build our network based on this paper and other implementation using Pytorch. Specifically, the [modeing](https://github.com/HaoranYao/DD2424-Project/tree/master/modeling) part is based on [jfzhang95's work](https://github.com/jfzhang95/pytorch-deeplab-xception/tree/master/modeling) and we made some modifications on them.
 
 Here is the final [report](https://github.com/HaoranYao/DD2424-Project/tree/master/result/report.pdf) for this project where you can find the details of the network and the results.
 
